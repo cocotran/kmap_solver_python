@@ -2,5 +2,5 @@
 
 ## Usage
 ```bash
-python3 KMapSolvers_GUI
+python3 KMapSolvers_GUI.py
 ```
